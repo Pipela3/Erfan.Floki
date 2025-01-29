@@ -1,5 +1,23 @@
-### 🌟 **Let's Connect!** 🌟
+<!-- فقط برای وبسایت‌های شخصی قابل استفاده است -->
+<a href="https://instagram.com/your_username" class="animated-button">
+  <img src="instagram-icon.png" class="jump">
+  <span>Follow Me</span>
+</a>
 
-[![Instagram](https://img.shields.io/badge/%F0%9F%93%B1_Instagram-FF0066?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF0066&color=000000&link=https://instagram.com/your_username)](https://instagram.com/your_username)  
-<img src="https://github.com/yourusername/your-repo/raw/main/instagram.gif" width="50" align="center">  
-**↓ روی آیکون کلیک کن ↓**
+<style>
+.animated-button {
+  animation: pulse 2s infinite;
+}
+.jump {
+  animation: jump 0.8s ease-in-out infinite;
+}
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+@keyframes jump {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+</style>8
