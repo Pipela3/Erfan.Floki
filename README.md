@@ -1,1 +1,4 @@
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F&boxshadow=0px_4px_10px_rgba(228,64,95,0.3))](https://instagram.com/[USERNAME])
+<a href="https://instagram.com/[USERNAME]" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="50" style="vertical-align:middle; margin:5px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <span style="font-family: Arial; color: #E4405F; font-weight: bold; vertical-align:middle;">اینستاگرام من</span>
+</a>
