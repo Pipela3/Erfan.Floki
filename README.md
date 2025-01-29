@@ -1,1 +1,1 @@
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/[USERNAME])
+[![Instagram](https://img.shields.io/badge/Instagram-FF0066?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF0066&color=FF0066)](https://instagram.com/[USERNAME])
