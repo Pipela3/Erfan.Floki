@@ -1,3 +1,1 @@
-<a href="https://instagram.com/your_username" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="30"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your_username)
