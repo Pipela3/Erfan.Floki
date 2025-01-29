@@ -1,1 +1,3 @@
-# [📷 INSTAGRAM](https://instagram.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_username/) 
+
+کافیست این کد را در فایل README.md قرار داده و `your_username` را با نام کاربری اینستاگرام خود جایگزین کنید. سپس تغییرات را ذخیره کنید و commit و push کنید. با این کار، یک لینک به پروفایل اینستاگرام شما با آیکون مناسب در صفحه گیتهاب نمایش داده خواهد شد.
