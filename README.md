@@ -1,1 +1,3 @@
-[<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="30" alt="Instagram"/>](https://instagram.com/[USERNAME) **Follow on Instagram**
+<a href="https://instagram.com/your_username" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="30"/>
+</a>
